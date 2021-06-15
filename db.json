@@ -1,111 +1,32 @@
 {
-  "year": [
-    {
-      "id": 1,
-      "title": "2020年度",
-      "pdf": [
-        {
-          "id": "1",
-          "title": "環保署1"
-        },
-        {
-          "id": "2",
-          "title": "環保署2"
-        },
-        {
-          "id": "3",
-          "title": "環保署3"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "2019年度",
-      "pdf": [
-        {
-          "id": "4",
-          "title": "環保署4"
-        },
-        {
-          "id": "5",
-          "title": "環保署5"
-        },
-        {
-          "id": "6",
-          "title": "環保署6"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "2018年度",
-      "pdf": [
-        {
-          "id": "7",
-          "title": "環保署7"
-        },
-        {
-          "id": "8",
-          "title": "環保署8"
-        },
-        {
-          "id": "9",
-          "title": "環保署9"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "2017年度",
-      "pdf": [
-        {
-          "id": "10",
-          "title": "環保署10"
-        },
-        {
-          "id": "11",
-          "title": "環保署11"
-        },
-        {
-          "id": "12",
-          "title": "環保署12"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "2016年度",
-      "pdf": [
-        {
-          "id": "13",
-          "title": "環保署13"
-        },
-        {
-          "id": "14",
-          "title": "環保署14"
-        },
-        {
-          "id": "15",
-          "title": "環保署15"
-        }
-      ]
-    }
-  ],
   "pdf": [
     {
       "id": 1,
-      "title": "環保署1",
-      "url": "pdf/antarctica.pdf"
+      "year": "2020",
+      "category": "空氣污染環保議題",
+      "title": "室內空氣品質維護管理文件",
+      "url": "http://localhost:3000/pdf/antarctica.pdf"
     },
     {
       "id": 2,
-      "title": "環保署2",
-      "url": "pdf/sample.pdf"
+      "year": "2020",
+      "category": "空氣污染環保議題",
+      "title": "生煤許可證查驗探討",
+      "url": "http://localhost:3000/pdf/legend.pdf"
     },
     {
       "id": 3,
-      "title": "環保署3",
-      "url": "pdf/gaki.pdf"
+      "year": "2020",
+      "category": "空氣污染環保議題",
+      "title": "新北市空汙染研究文件",
+      "url": "http://localhost:3000/pdf/gaki.pdf"
+    },
+    {
+      "id": 4,
+      "year": "2020",
+      "category": "空氣污染環保議題",
+      "title": "公私場所固定污染源空氣防治",
+      "url": "http://localhost:3000/pdf/covid19.pdf"
     }
   ]
 }
